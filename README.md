@@ -4,7 +4,7 @@
 
 [here's a link](https://www.google.com)
 
-** this is bold **
+**this is bold**
 
 - unordered list
 - unordered list
